@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        //removed prefix for o(1) space complexity//
         int n =nums.size();
         vector<int>ans(n,1);
 
