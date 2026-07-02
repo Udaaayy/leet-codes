@@ -1,5 +1,6 @@
 class Solution {
 public:
+// MAX Water with o(n) time  complexity//
     int maxArea(vector<int>& height) {
         int maxwater=0;
         int lp=0 ,rp=height.size()-1;
