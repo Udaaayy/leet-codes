@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Udaaayy/leet-codes/tree/master/0224-basic-calculator) |
 | [2235-add-two-integers](https://github.com/Udaaayy/leet-codes/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Udaaayy/leet-codes/tree/master/2652-sum-multiples) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Udaaayy/leet-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Udaaayy/leet-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
