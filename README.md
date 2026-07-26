@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Udaaayy/leet-codes/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Udaaayy/leet-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Udaaayy/leet-codes/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Udaaayy/leet-codes/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Udaaayy/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Udaaayy/leet-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Udaaayy/leet-codes/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Udaaayy/leet-codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Udaaayy/leet-codes/tree/master/0169-majority-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Udaaayy/leet-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Udaaayy/leet-codes/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Udaaayy/leet-codes/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Udaaayy/leet-codes/tree/master/0075-sort-colors) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Udaaayy/leet-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
