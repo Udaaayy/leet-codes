@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Udaaayy/leet-codes/tree/master/0012-integer-to-roman) |
+| [0146-lru-cache](https://github.com/Udaaayy/leet-codes/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Udaaayy/leet-codes/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Udaaayy/leet-codes/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Udaaayy/leet-codes/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Udaaayy/leet-codes/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Udaaayy/leet-codes/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Udaaayy/leet-codes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
