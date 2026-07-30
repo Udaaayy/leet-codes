@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Udaaayy/leet-codes/tree/master/0011-container-with-most-water) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Udaaayy/leet-codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Udaaayy/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Udaaayy/leet-codes/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Udaaayy/leet-codes/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Udaaayy/leet-codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Udaaayy/leet-codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Udaaayy/leet-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Udaaayy/leet-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Udaaayy/leet-codes/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/Udaaayy/leet-codes/tree/master/0224-basic-calculator) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Udaaayy/leet-codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
