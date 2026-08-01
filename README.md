@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Udaaayy/leet-codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Udaaayy/leet-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Udaaayy/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Udaaayy/leet-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -163,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
