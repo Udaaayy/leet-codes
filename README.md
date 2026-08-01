@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Udaaayy/leet-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Udaaayy/leet-codes/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Udaaayy/leet-codes/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Udaaayy/leet-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Udaaayy/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Udaaayy/leet-codes/tree/master/1260-shift-2d-grid) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Udaaayy/leet-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Udaaayy/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Udaaayy/leet-codes/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Hash Table
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Udaaayy/leet-codes/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Udaaayy/leet-codes/tree/master/0224-basic-calculator) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Udaaayy/leet-codes/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Udaaayy/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Udaaayy/leet-codes/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Udaaayy/leet-codes/tree/master/2652-sum-multiples) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Udaaayy/leet-codes/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Udaaayy/leet-codes/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Udaaayy/leet-codes/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
