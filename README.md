@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Udaaayy/leet-codes/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Udaaayy/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Udaaayy/leet-codes/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/Udaaayy/leet-codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Udaaayy/leet-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Udaaayy/leet-codes/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Udaaayy/leet-codes/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Udaaayy/leet-codes/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/Udaaayy/leet-codes/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Udaaayy/leet-codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Udaaayy/leet-codes/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Udaaayy/leet-codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Udaaayy/leet-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
