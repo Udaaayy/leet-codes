@@ -177,17 +177,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Udaaayy/leet-codes/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Udaaayy/leet-codes/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Udaaayy/leet-codes/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Udaaayy/leet-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Udaaayy/leet-codes/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Udaaayy/leet-codes/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
