@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Udaaayy/leet-codes/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Udaaayy/leet-codes/tree/master/0022-generate-parentheses) |
+| [0065-valid-number](https://github.com/Udaaayy/leet-codes/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/Udaaayy/leet-codes/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Udaaayy/leet-codes/tree/master/0093-restore-ip-addresses) |
 | [0224-basic-calculator](https://github.com/Udaaayy/leet-codes/tree/master/0224-basic-calculator) |
