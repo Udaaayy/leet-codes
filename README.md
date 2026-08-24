@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Udaaayy/leet-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Udaaayy/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Udaaayy/leet-codes/tree/master/1260-shift-2d-grid) |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Udaaayy/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Udaaayy/leet-codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Udaaayy/leet-codes/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Udaaayy/leet-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Udaaayy/leet-codes/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Udaaayy/leet-codes/tree/master/0224-basic-calculator) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Udaaayy/leet-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Udaaayy/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Udaaayy/leet-codes/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Udaaayy/leet-codes/tree/master/2652-sum-multiples) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Udaaayy/leet-codes/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Udaaayy/leet-codes/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Udaaayy/leet-codes/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -198,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Udaaayy/leet-codes/tree/master/0099-recover-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Udaaayy/leet-codes/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
